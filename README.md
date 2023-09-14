@@ -7,7 +7,7 @@ Este microservicio está diseñado para la Clínica EPS Campus con el propósito
 1. **Clona el Repositorio:**
 
    ```bash
-   git clone https://github.com/tuusuario/microservicio-clinica-eps.git
+   git clone https://github.com/Johan-web-developer/microservicio-clinica-eps.git
 ## Instala las Dependencias:
 
 bash
